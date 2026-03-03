@@ -7,13 +7,17 @@ I made a custom Flight Controller which controls 3 Servos and 1 Escs which is ba
 - USB connection for programming and power
 - Onboard 3.3V and 5V voltage regulation
 - Compact footprint for small projects
-- IMU and Pressure Sensor
-- - ## Bill of Materials (BOM)
+- IMU and Pressure Sensor<br>
+- 
+- ## Bill of Materials (BOM)
 | Serial Num | Description | Total (USD) | 
 |----:|--------------------------|-------------|
 | 1  | PCB and Assembly  |183.1 |
-| 2 | Shipping JLCPCB  |7.89 |
-| 3 | Discount  |-6 |
+| 2 | Shipping JLCPCB  |23.13 |
+| 3 | Discount  |10 |
+
+
+<br>
 ### 💰 Cost Summary
 
 - **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$184.99	 USD**
