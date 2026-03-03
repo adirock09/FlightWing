@@ -1,7 +1,9 @@
 # FlightWing
 <img width="1536" height="960" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/3eaad3a2-e71a-43f3-abdd-32da22995e69" />
 I made a custom Flight Controller which controls 3 Servos and 1 Escs which is based on an STM32 chip , it has 6 channel input available so it can be connected to a receiver and has a microSD Card, battery charger , IMU and Pressure Sensor . It has a USB-C for uploading code and charging purpose.
+
 ## Features
+
 - Based on STM32 Chip
 - 2-layer compact PCB
 - USB connection for programming and power
@@ -13,8 +15,8 @@ I made a custom Flight Controller which controls 3 Servos and 1 Escs which is ba
 | Serial Num | Description | Total (USD) | 
 |----:|--------------------------|-------------|
 | 1  | PCB and Assembly  |183.1 |
-| 2 | Shipping JLCPCB  |23.13 |
-| 3 | Discount  |10 |
+| 2 | Shipping JLCPCB  |7.89 |
+| 3 | Discount  |6 |
 
 
 <br>
