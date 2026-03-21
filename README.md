@@ -14,15 +14,15 @@ I made a custom Flight Controller which controls 3 Servos and 1 Escs which is ba
 - ## Bill of Materials (BOM)
 | Serial Num | Description | Total (USD) | 
 |----:|--------------------------|-------------|
-| 1  | PCB and Assembly  |183.1 |
-| 2 | Shipping JLCPCB  |7.89 |
-| 3 | Discount  |6 |
+| 1  | PCB and Assembly  |77.86 |
+| 2 | Shipping JLCPCB  |14.51 |
+
 
 
 <br>
 ### 💰 Cost Summary
 
-- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$184.99	 USD**
+- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$92.37	 USD**
 -  ## Schematic & PCB<br>
 <img width="1242" height="833" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/d2a0c0c7-5d40-41f9-9a55-2f356a842d95" /><br>
 <img width="553" height="666" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/65a16a46-790e-4873-8e76-1a4e9df7ad45" /><br>
